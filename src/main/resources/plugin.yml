@@ -1,0 +1,10 @@
+name: Guilds
+version: ${project.version}
+main: net.apthos.guilds.Guilds
+
+commands:
+  p:
+  personal:
+  g:
+  guild:
+  Map:
